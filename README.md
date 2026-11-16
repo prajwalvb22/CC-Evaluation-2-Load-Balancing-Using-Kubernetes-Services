@@ -2,7 +2,6 @@
 
 KLE Technological University | Cloud Computing Lab Evaluation 2 | Problem 03
 
-Author: Arun Hadimani
 
 ## 1. Objective
 
